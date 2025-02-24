@@ -40,6 +40,6 @@ This is a **Windows Forms-based Bank Management System** developed in **C#** usi
 
 ---
 
-**Author:** [Muhammed Aldebs](https://github.com/your-username)  
+**Author:** [Muhammed Aldebs](https://github.com/MOHAMAD-ALDEBS)  
 For any questions, feel free to contact me!
 
