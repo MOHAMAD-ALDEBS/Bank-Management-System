@@ -32,21 +32,11 @@ This is a **Windows Forms-based Bank Management System** developed in **C#** usi
 
 ## Database Setup
 - The SQLite database file (`bank.db`) is included in the project.
-- If needed, you can create a new database using SQLite tools and configure the connection in the application settings.
-
-## Screenshots
-_Add screenshots of the login page, customer dashboard, admin panel, etc._
 
 ## Future Improvements
 - Implement **two-factor authentication (2FA)** for added security.
 - Introduce **report generation** for customer and transaction analytics.
 - Add **multi-language support** for wider accessibility.
-
-## Contribution
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-This project is licensed under the **MIT License**.
 
 ---
 
